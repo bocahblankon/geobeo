@@ -1,0 +1,2 @@
+# geobeo
+Baca oprekan geografis 
