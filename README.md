@@ -1,2 +1,2 @@
 # geobeo
-geografis oprekan
+Baca dulu geografis oprekan
